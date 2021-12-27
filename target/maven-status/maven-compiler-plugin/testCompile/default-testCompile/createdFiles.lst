@@ -1,0 +1,10 @@
+com\OpenCartAutomation\PageObjects\LoginPage.class
+com\OpenCartAutomation\TestCases\TC_LoginTest_001.class
+com\OpenCartAutomation\PageObjects\RegistrationPage.class
+com\OpenCartAutomation\TestCases_Registration\TC_Subscription_005.class
+com\OpenCartAutomation\TestCases\TC_LoginTestDDT_002.class
+com\OpenCartAutomation\TestCases_Registration\TC_Registration_003.class
+com\OpenCartAutomation\TestCases_Registration\TC_Registration_004.class
+com\OpenCartAutomation\TestCases\GenerateReportTimestamp.class
+com\OpenCartAutomation\TestCases\BaseClass.class
+com\OpenCartAutomation\Utilities\XLUtils.class

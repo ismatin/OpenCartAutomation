@@ -1,0 +1,645 @@
+2021-11-17 09:51:20,788 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-17 09:51:20,969 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-11-17 09:51:25,892 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-11-17 09:51:28,969 - OpenCartAutomation -INFO - Email text box is present on the login page
+2021-11-17 09:51:29,156 - OpenCartAutomation -INFO - Entering email address
+2021-11-17 09:51:32,240 - OpenCartAutomation -INFO - Password text box is present on the login page
+2021-11-17 09:51:32,326 - OpenCartAutomation -INFO - Entering password
+2021-11-17 09:51:35,415 - OpenCartAutomation -INFO - Login button is present on the login page, Test case passed
+2021-11-17 09:51:38,749 - OpenCartAutomation -INFO - Clicking on Login button
+2021-11-17 09:51:41,797 - OpenCartAutomation -INFO - Actual Title-->true Expected Title-->My Account, Login test case passed....
+2021-11-17 09:51:42,734 - OpenCartAutomation -INFO - Closing the browser
+2021-11-17 10:23:32,950 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-17 10:23:33,136 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-11-17 10:23:38,003 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-11-17 10:23:41,085 - OpenCartAutomation -INFO - Email text box is present on the login page
+2021-11-17 10:23:41,213 - OpenCartAutomation -INFO - Entering email address
+2021-11-17 10:23:44,284 - OpenCartAutomation -INFO - Password text box is present on the login page
+2021-11-17 10:23:44,380 - OpenCartAutomation -INFO - Entering password
+2021-11-17 10:23:47,492 - OpenCartAutomation -INFO - Login button is present on the login page, Test case passed
+2021-11-17 10:23:51,572 - OpenCartAutomation -INFO - Clicking on Login button
+2021-11-17 10:23:54,636 - OpenCartAutomation -INFO - Actual Title-->true Expected Title-->My Account, Login test case passed....
+2021-11-17 10:23:55,572 - OpenCartAutomation -INFO - Closing the browser
+2021-11-17 10:34:36,517 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-17 10:34:36,814 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-11-17 10:34:52,767 - OpenCartAutomation -INFO - Closing the browser
+2021-11-17 10:37:32,990 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-17 10:37:33,420 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-11-17 10:37:38,433 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-11-17 10:37:41,523 - OpenCartAutomation -INFO - Email text box is present on the login page
+2021-11-17 10:37:41,666 - OpenCartAutomation -INFO - Entering email address
+2021-11-17 10:37:44,730 - OpenCartAutomation -INFO - Password text box is present on the login page
+2021-11-17 10:37:44,813 - OpenCartAutomation -INFO - Entering password
+2021-11-17 10:37:47,953 - OpenCartAutomation -INFO - Login button is present on the login page, Test case passed
+2021-11-17 10:37:51,706 - OpenCartAutomation -INFO - Clicking on Login button
+2021-11-17 10:37:54,783 - OpenCartAutomation -INFO - Actual Title-->true Expected Title-->My Account, Login test case passed....
+2021-11-17 10:37:55,802 - OpenCartAutomation -INFO - Closing the browser
+2021-11-18 10:07:12,638 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-18 10:07:12,954 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-11-18 10:07:17,587 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-11-18 10:07:20,688 - OpenCartAutomation -INFO - Email text box is present on the login page
+2021-11-18 10:07:20,873 - OpenCartAutomation -INFO - Entering email address
+2021-11-18 10:07:23,928 - OpenCartAutomation -INFO - Password text box is present on the login page
+2021-11-18 10:07:24,046 - OpenCartAutomation -INFO - Entering password
+2021-11-18 10:07:27,107 - OpenCartAutomation -INFO - Login button is present on the login page, Test case passed
+2021-11-18 10:07:29,652 - OpenCartAutomation -INFO - Clicking on Login button
+2021-11-18 10:07:32,702 - OpenCartAutomation -INFO - Actual Title-->true Expected Title-->My Account, Login test case passed....
+2021-11-18 10:07:33,693 - OpenCartAutomation -INFO - Closing the browser
+2021-11-18 10:10:46,256 - OpenCartAutomation -INFO - ************** Executing on firefix browser ***************
+2021-11-18 10:10:59,554 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-18 10:10:59,971 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-11-18 10:11:03,893 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-11-18 10:11:07,068 - OpenCartAutomation -INFO - Email text box is present on the login page
+2021-11-18 10:11:07,182 - OpenCartAutomation -INFO - Entering email address
+2021-11-18 10:11:10,301 - OpenCartAutomation -INFO - Password text box is present on the login page
+2021-11-18 10:11:10,343 - OpenCartAutomation -INFO - Entering password
+2021-11-18 10:11:13,484 - OpenCartAutomation -INFO - Login button is present on the login page, Test case passed
+2021-11-18 10:11:15,865 - OpenCartAutomation -INFO - Clicking on Login button
+2021-11-18 10:11:18,913 - OpenCartAutomation -INFO - Actual Title-->true Expected Title-->My Account, Login test case passed....
+2021-11-18 10:11:20,694 - OpenCartAutomation -INFO - Closing the browser
+2021-11-18 10:12:08,352 - OpenCartAutomation -INFO - ************** Executing on IE browser ***************
+2021-11-18 10:13:01,718 - OpenCartAutomation -INFO - ************** Executing on IE browser ***************
+2021-11-18 10:13:08,624 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-18 10:13:19,652 - OpenCartAutomation -INFO - Closing the browser
+2021-11-18 10:15:50,486 - OpenCartAutomation -INFO - ************** Executing on IE browser ***************
+2021-11-18 10:15:56,878 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-18 10:16:07,694 - OpenCartAutomation -INFO - Closing the browser
+2021-11-18 10:19:13,884 - OpenCartAutomation -INFO - ************** Executing on IE browser ***************
+2021-11-18 10:19:19,905 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-18 10:19:30,797 - OpenCartAutomation -INFO - Closing the browser
+2021-11-18 10:24:35,148 - OpenCartAutomation -INFO - ************** Executing on IE browser ***************
+2021-11-18 10:24:42,800 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-18 10:24:53,844 - OpenCartAutomation -INFO - Closing the browser
+2021-11-18 10:25:13,474 - OpenCartAutomation -INFO - ************** Executing on chrome browser ***************
+2021-11-18 10:25:20,726 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-18 10:25:20,919 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-11-18 10:25:25,746 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-11-18 10:25:41,770 - OpenCartAutomation -INFO - Closing the browser
+2021-11-18 10:30:07,585 - OpenCartAutomation -INFO - ************** Executing on IE browser ***************
+2021-11-18 10:31:01,658 - OpenCartAutomation -INFO - ************** Executing on IE browser ***************
+2021-11-18 10:31:08,221 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-18 10:31:19,255 - OpenCartAutomation -INFO - Closing the browser
+2021-11-18 10:36:02,048 - OpenCartAutomation -INFO - ************** Executing on IE browser ***************
+2021-11-18 10:36:08,586 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-18 10:36:19,635 - OpenCartAutomation -INFO - Closing the browser
+2021-11-18 10:45:53,916 - OpenCartAutomation -INFO - ************** Executing on IE browser ***************
+2021-11-18 10:46:00,888 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-18 10:46:11,727 - OpenCartAutomation -INFO - Closing the browser
+2021-11-18 10:46:48,138 - OpenCartAutomation -INFO - ************** Executing on chrome browser ***************
+2021-11-18 10:46:54,850 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-18 10:46:55,009 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-11-18 10:46:59,258 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-11-18 10:47:15,252 - OpenCartAutomation -INFO - Closing the browser
+2021-11-22 10:03:24,501 - OpenCartAutomation -INFO - ************** Executing on chrome browser ***************
+2021-11-22 10:03:33,287 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-22 10:03:33,437 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-11-22 10:03:38,096 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-11-22 10:03:41,275 - OpenCartAutomation -INFO - Email text box is present on the login page
+2021-11-22 10:03:41,568 - OpenCartAutomation -INFO - Entering email address
+2021-11-22 10:03:44,630 - OpenCartAutomation -INFO - Password text box is present on the login page
+2021-11-22 10:03:44,822 - OpenCartAutomation -INFO - Entering password
+2021-11-22 10:03:48,094 - OpenCartAutomation -INFO - Login button is present on the login page, Test case passed
+2021-11-22 10:03:51,402 - OpenCartAutomation -INFO - Clicking on Login button
+2021-11-22 10:03:54,461 - OpenCartAutomation -INFO - Actual Title-->true Expected Title-->My Account, Login test case passed....
+2021-11-22 10:03:55,268 - OpenCartAutomation -INFO - Closing the browser
+2021-11-22 10:05:08,952 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-22 10:05:20,656 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-22 10:05:20,975 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-11-22 10:05:25,396 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-11-22 10:05:28,449 - OpenCartAutomation -INFO - Email text box is present on the login page
+2021-11-22 10:05:28,508 - OpenCartAutomation -INFO - Entering email address
+2021-11-22 10:05:31,535 - OpenCartAutomation -INFO - Password text box is present on the login page
+2021-11-22 10:05:31,559 - OpenCartAutomation -INFO - Entering password
+2021-11-22 10:05:34,586 - OpenCartAutomation -INFO - Login button is present on the login page, Test case passed
+2021-11-22 10:05:37,120 - OpenCartAutomation -INFO - Clicking on Login button
+2021-11-22 10:05:40,152 - OpenCartAutomation -INFO - Actual Title-->true Expected Title-->My Account, Login test case passed....
+2021-11-22 10:05:41,204 - OpenCartAutomation -INFO - Closing the browser
+2021-11-22 13:06:35,362 - OpenCartAutomation -INFO - ************** Executing on chrome browser ***************
+2021-11-22 13:06:42,284 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-22 13:07:07,660 - OpenCartAutomation -INFO - Closing the browser
+2021-11-22 13:09:10,725 - OpenCartAutomation -INFO - ************** Executing on chrome browser ***************
+2021-11-22 13:09:17,052 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-22 13:10:15,647 - OpenCartAutomation -INFO - Closing the browser
+2021-11-22 13:16:55,422 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-22 13:17:07,233 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-22 13:21:49,163 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-22 13:22:00,668 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-22 13:25:08,843 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-22 13:25:19,619 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-22 13:25:38,921 - OpenCartAutomation -INFO - Closing the browser
+2021-11-22 13:27:37,347 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-22 13:27:49,431 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-22 13:28:09,503 - OpenCartAutomation -INFO - Closing the browser
+2021-11-22 13:30:33,263 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-22 13:30:44,311 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-22 13:30:47,358 - OpenCartAutomation -INFO - Closing the browser
+2021-11-22 13:32:17,518 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-22 13:32:28,223 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-22 13:32:58,503 - OpenCartAutomation -INFO - Closing the browser
+2021-11-22 14:08:29,816 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-22 14:08:42,956 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-22 14:08:45,377 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-11-22 14:08:47,363 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-11-22 14:08:47,512 - OpenCartAutomation -INFO - Entering Email id-->shaikh.matin.13@gmail.com
+2021-11-22 14:08:49,600 - OpenCartAutomation -INFO - Entering password-->Test@123
+2021-11-22 14:08:54,953 - OpenCartAutomation -INFO - Login test case passed....
+2021-11-22 14:08:55,264 - OpenCartAutomation -INFO - Clicking on My Account to logout 
+2021-11-22 14:08:58,359 - OpenCartAutomation -INFO - Clicking on logout from dropdown
+2021-11-22 14:09:01,652 - OpenCartAutomation -INFO - Clicking on My Account to login 
+2021-11-22 14:09:03,232 - OpenCartAutomation -INFO - Clicking on login from dropdown
+2021-11-22 14:09:03,578 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-11-22 14:09:05,312 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-11-22 14:09:05,484 - OpenCartAutomation -INFO - Entering Email id-->Test@gmail.com
+2021-11-22 14:09:07,569 - OpenCartAutomation -INFO - Entering password-->Test@123
+2021-11-22 14:09:13,075 - OpenCartAutomation -INFO - Closing the browser
+2021-11-23 18:27:49,991 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-23 18:28:06,741 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-23 18:28:10,713 - OpenCartAutomation -INFO - Closing the browser
+2021-11-23 18:28:55,317 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-23 18:29:05,524 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-23 18:29:13,275 - OpenCartAutomation -INFO - Closing the browser
+2021-11-23 18:31:19,257 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-23 18:31:30,359 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-23 18:31:38,069 - OpenCartAutomation -INFO - Closing the browser
+2021-11-23 18:32:55,992 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-23 18:33:05,417 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-23 18:33:13,161 - OpenCartAutomation -INFO - Closing the browser
+2021-11-23 18:34:40,253 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-23 18:34:50,477 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-23 18:34:58,207 - OpenCartAutomation -INFO - Closing the browser
+2021-11-23 18:38:32,222 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-23 18:38:43,401 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-23 18:38:53,760 - OpenCartAutomation -INFO - Closing the browser
+2021-11-23 18:41:45,309 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-23 18:41:58,183 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-23 18:42:13,071 - OpenCartAutomation -INFO - Closing the browser
+2021-11-23 18:44:08,935 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-23 18:44:19,534 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-23 18:44:34,943 - OpenCartAutomation -INFO - Closing the browser
+2021-11-23 18:57:52,994 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-23 18:58:04,846 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-23 18:58:20,242 - OpenCartAutomation -INFO - Closing the browser
+2021-11-23 18:59:56,107 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-23 19:00:06,343 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-23 19:00:21,927 - OpenCartAutomation -INFO - Closing the browser
+2021-11-23 19:01:46,430 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-23 19:01:56,977 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-23 19:02:15,417 - OpenCartAutomation -INFO - Closing the browser
+2021-11-23 19:04:18,473 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-23 19:04:30,877 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-23 19:04:49,626 - OpenCartAutomation -INFO - Closing the browser
+2021-11-23 19:06:43,851 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-23 19:06:55,355 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-23 19:07:13,632 - OpenCartAutomation -INFO - Closing the browser
+2021-11-23 19:08:21,127 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-23 19:08:33,206 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-23 19:08:52,833 - OpenCartAutomation -INFO - Closing the browser
+2021-11-23 19:15:52,340 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-23 19:16:07,339 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-23 19:16:35,128 - OpenCartAutomation -INFO - Closing the browser
+2021-11-23 19:17:30,751 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-23 19:17:42,464 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-23 19:21:27,249 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-23 19:21:40,145 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-23 19:22:07,459 - OpenCartAutomation -INFO - Closing the browser
+2021-11-24 09:50:52,299 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-24 09:51:05,726 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-24 09:51:25,825 - OpenCartAutomation -INFO - Closing the browser
+2021-11-24 09:59:37,558 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-24 09:59:49,954 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-24 09:59:50,460 - OpenCartAutomation -INFO - Clicking on My Account
+2021-11-24 09:59:52,197 - OpenCartAutomation -INFO - Clicking on Register
+2021-11-24 09:59:56,247 - OpenCartAutomation -INFO - Getting Account breadcrumb text-->Account
+2021-11-24 09:59:56,283 - OpenCartAutomation -INFO - Getting Register breadcrumb text-->Register
+2021-11-24 09:59:56,288 - OpenCartAutomation -INFO - Account breadcrumb is present on the web page
+2021-11-24 09:59:56,405 - OpenCartAutomation -INFO - Entering firstname
+2021-11-24 09:59:56,485 - OpenCartAutomation -INFO - Entering lastname
+2021-11-24 09:59:56,541 - OpenCartAutomation -INFO - Entering telephone number
+2021-11-24 09:59:56,598 - OpenCartAutomation -INFO - Entering email-->Test728@gmail.com
+2021-11-24 09:59:56,635 - OpenCartAutomation -INFO - Entering password
+2021-11-24 09:59:56,665 - OpenCartAutomation -INFO - Entering confirm password
+2021-11-24 09:59:56,910 - OpenCartAutomation -INFO - Clicking on privacy policy
+2021-11-24 09:59:59,841 - OpenCartAutomation -INFO - Clicking on continue button
+2021-11-24 10:00:07,853 - OpenCartAutomation -INFO - Registration successed...Test case passed
+2021-11-24 10:00:09,520 - OpenCartAutomation -INFO - Closing the browser
+2021-11-24 10:44:43,569 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-24 10:44:55,006 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-24 10:45:09,237 - OpenCartAutomation -INFO - Closing the browser
+2021-11-25 10:57:04,818 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-25 10:57:18,772 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-25 10:57:31,363 - OpenCartAutomation -INFO - Closing the browser
+2021-11-25 10:58:35,627 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-25 10:58:48,221 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-25 10:59:04,279 - OpenCartAutomation -INFO - Closing the browser
+2021-11-25 11:01:42,363 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-25 11:01:53,229 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-25 11:02:08,480 - OpenCartAutomation -INFO - Closing the browser
+2021-11-29 10:31:36,326 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-29 10:32:12,571 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-29 10:32:25,720 - OpenCartAutomation -INFO - Closing the browser
+2021-11-30 10:38:32,583 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-30 10:38:46,755 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-30 10:38:47,197 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-11-30 10:38:51,966 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-11-30 10:38:55,147 - OpenCartAutomation -INFO - Email text box is present on the login page
+2021-11-30 10:38:55,299 - OpenCartAutomation -INFO - Entering email address
+2021-11-30 10:38:58,388 - OpenCartAutomation -INFO - Password text box is present on the login page
+2021-11-30 10:38:58,479 - OpenCartAutomation -INFO - Entering password
+2021-11-30 10:39:01,584 - OpenCartAutomation -INFO - Login button is present on the login page, Test case passed
+2021-11-30 10:39:04,963 - OpenCartAutomation -INFO - Clicking on Login button
+2021-11-30 10:39:08,028 - OpenCartAutomation -INFO - Actual Title-->true Expected Title-->My Account, Login test case passed....
+2021-11-30 10:39:09,725 - OpenCartAutomation -INFO - Closing the browser
+2021-11-30 10:39:09,747 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-30 10:39:18,190 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-30 10:39:18,542 - OpenCartAutomation -INFO - Clicking on My Account
+2021-11-30 10:39:20,379 - OpenCartAutomation -INFO - Clicking on Register
+2021-11-30 10:39:24,442 - OpenCartAutomation -INFO - Getting Account breadcrumb text-->Account
+2021-11-30 10:39:24,470 - OpenCartAutomation -INFO - Getting Register breadcrumb text-->Register
+2021-11-30 10:39:24,471 - OpenCartAutomation -INFO - Account breadcrumb is present on the web page
+2021-11-30 10:39:24,574 - OpenCartAutomation -INFO - Entering firstname
+2021-11-30 10:39:24,682 - OpenCartAutomation -INFO - Entering lastname
+2021-11-30 10:39:24,730 - OpenCartAutomation -INFO - Entering telephone number
+2021-11-30 10:39:24,778 - OpenCartAutomation -INFO - Entering email-->Test618@gmail.com
+2021-11-30 10:39:24,814 - OpenCartAutomation -INFO - Entering password
+2021-11-30 10:39:24,845 - OpenCartAutomation -INFO - Entering confirm password
+2021-11-30 10:39:25,094 - OpenCartAutomation -INFO - Clicking on privacy policy
+2021-11-30 10:39:28,098 - OpenCartAutomation -INFO - Clicking on continue button
+2021-11-30 10:39:36,119 - OpenCartAutomation -INFO - Registration successed...Test case passed
+2021-11-30 10:39:37,696 - OpenCartAutomation -INFO - Closing the browser
+2021-11-30 10:39:37,706 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-11-30 10:39:45,932 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-11-30 10:39:46,360 - OpenCartAutomation -INFO - Clicking on My Account
+2021-11-30 10:39:48,202 - OpenCartAutomation -INFO - Clicking on Register
+2021-11-30 10:39:57,041 - OpenCartAutomation -INFO - Clicking on continue button
+2021-11-30 10:39:57,042 - OpenCartAutomation -INFO - *********************FirstName warning message validation******************************
+2021-11-30 10:39:57,079 - OpenCartAutomation -INFO - First name warning message-->First Name must be between 1 and 32 characters!
+2021-11-30 10:39:57,080 - OpenCartAutomation -INFO - Warning message is displayed on FirstName field
+2021-11-30 10:39:57,081 - OpenCartAutomation -INFO - *********************LastName warning message validation******************************
+2021-11-30 10:39:57,114 - OpenCartAutomation -INFO - Last name warning message-->Last Name must be between 1 and 32 characters!
+2021-11-30 10:39:57,115 - OpenCartAutomation -INFO - Warning message is displayed on LastName field
+2021-11-30 10:39:57,116 - OpenCartAutomation -INFO - *********************Email warning message validation******************************
+2021-11-30 10:39:57,149 - OpenCartAutomation -INFO - Email warning message-->E-Mail Address does not appear to be valid!
+2021-11-30 10:39:57,150 - OpenCartAutomation -INFO - Warning message is displayed on Email field
+2021-11-30 10:39:57,151 - OpenCartAutomation -INFO - *********************Telephone warning message validation******************************
+2021-11-30 10:39:57,174 - OpenCartAutomation -INFO - Telephone warning message-->Telephone must be between 3 and 32 characters!
+2021-11-30 10:39:57,175 - OpenCartAutomation -INFO - Warning message is displayed on Telephone field
+2021-11-30 10:39:57,176 - OpenCartAutomation -INFO - *********************Password warning message validation******************************
+2021-11-30 10:39:57,202 - OpenCartAutomation -INFO - Password warning message-->Password must be between 4 and 20 characters!
+2021-11-30 10:39:57,203 - OpenCartAutomation -INFO - Warning message is displayed on Password field
+2021-11-30 10:39:57,228 - OpenCartAutomation -INFO - Privacy policy warning message-->Warning: You must agree to the Privacy Policy!
+2021-11-30 10:40:00,238 - OpenCartAutomation -INFO - Warning message is displayed on policy field
+2021-11-30 10:40:01,786 - OpenCartAutomation -INFO - Closing the browser
+2021-12-02 10:18:34,927 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-02 10:18:44,364 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-02 10:18:44,731 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-12-02 10:18:49,131 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-12-02 10:18:52,199 - OpenCartAutomation -INFO - Email text box is present on the login page
+2021-12-02 10:18:52,251 - OpenCartAutomation -INFO - Entering email address
+2021-12-02 10:18:55,299 - OpenCartAutomation -INFO - Password text box is present on the login page
+2021-12-02 10:18:55,321 - OpenCartAutomation -INFO - Entering password
+2021-12-02 10:18:58,351 - OpenCartAutomation -INFO - Login button is present on the login page, Test case passed
+2021-12-02 10:19:00,788 - OpenCartAutomation -INFO - Clicking on Login button
+2021-12-02 10:19:03,814 - OpenCartAutomation -INFO - Actual Title-->true Expected Title-->My Account, Login test case passed....
+2021-12-02 10:19:04,853 - OpenCartAutomation -INFO - Closing the browser
+2021-12-02 10:19:04,866 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-02 10:19:11,121 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-02 10:19:11,460 - OpenCartAutomation -INFO - Clicking on My Account
+2021-12-02 10:19:12,755 - OpenCartAutomation -INFO - Clicking on Register
+2021-12-02 10:19:16,780 - OpenCartAutomation -INFO - Getting Account breadcrumb text-->Account
+2021-12-02 10:19:16,791 - OpenCartAutomation -INFO - Getting Register breadcrumb text-->Register
+2021-12-02 10:19:16,791 - OpenCartAutomation -INFO - Account breadcrumb is present on the web page
+2021-12-02 10:19:16,818 - OpenCartAutomation -INFO - Entering firstname
+2021-12-02 10:19:16,837 - OpenCartAutomation -INFO - Entering lastname
+2021-12-02 10:19:16,866 - OpenCartAutomation -INFO - Entering telephone number
+2021-12-02 10:19:16,897 - OpenCartAutomation -INFO - Entering email-->Test240@gmail.com
+2021-12-02 10:19:16,933 - OpenCartAutomation -INFO - Entering password
+2021-12-02 10:19:16,956 - OpenCartAutomation -INFO - Entering confirm password
+2021-12-02 10:19:17,193 - OpenCartAutomation -INFO - Clicking on privacy policy
+2021-12-02 10:19:19,862 - OpenCartAutomation -INFO - Clicking on continue button
+2021-12-02 10:19:27,873 - OpenCartAutomation -INFO - Registration successed...Test case passed
+2021-12-02 10:19:28,799 - OpenCartAutomation -INFO - Closing the browser
+2021-12-02 10:19:28,808 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-02 10:19:34,529 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-02 10:19:34,822 - OpenCartAutomation -INFO - Clicking on My Account
+2021-12-02 10:19:36,163 - OpenCartAutomation -INFO - Clicking on Register
+2021-12-02 10:19:44,758 - OpenCartAutomation -INFO - Clicking on continue button
+2021-12-02 10:19:44,759 - OpenCartAutomation -INFO - *********************FirstName warning message validation******************************
+2021-12-02 10:19:44,786 - OpenCartAutomation -INFO - First name warning message-->First Name must be between 1 and 32 characters!
+2021-12-02 10:19:44,787 - OpenCartAutomation -INFO - Warning message is displayed on FirstName field
+2021-12-02 10:19:44,788 - OpenCartAutomation -INFO - *********************LastName warning message validation******************************
+2021-12-02 10:19:44,800 - OpenCartAutomation -INFO - Last name warning message-->Last Name must be between 1 and 32 characters!
+2021-12-02 10:19:44,800 - OpenCartAutomation -INFO - Warning message is displayed on LastName field
+2021-12-02 10:19:44,801 - OpenCartAutomation -INFO - *********************Email warning message validation******************************
+2021-12-02 10:19:44,811 - OpenCartAutomation -INFO - Email warning message-->E-Mail Address does not appear to be valid!
+2021-12-02 10:19:44,811 - OpenCartAutomation -INFO - Warning message is displayed on Email field
+2021-12-02 10:19:44,811 - OpenCartAutomation -INFO - *********************Telephone warning message validation******************************
+2021-12-02 10:19:44,819 - OpenCartAutomation -INFO - Telephone warning message-->Telephone must be between 3 and 32 characters!
+2021-12-02 10:19:44,820 - OpenCartAutomation -INFO - Warning message is displayed on Telephone field
+2021-12-02 10:19:44,820 - OpenCartAutomation -INFO - *********************Password warning message validation******************************
+2021-12-02 10:19:44,831 - OpenCartAutomation -INFO - Password warning message-->Password must be between 4 and 20 characters!
+2021-12-02 10:19:44,832 - OpenCartAutomation -INFO - Warning message is displayed on Password field
+2021-12-02 10:19:44,832 - OpenCartAutomation -INFO - *********************Privacy Policy warning message validation******************************
+2021-12-02 10:19:44,841 - OpenCartAutomation -INFO - Privacy policy warning message-->Warning: You must agree to the Privacy Policy!
+2021-12-02 10:19:47,850 - OpenCartAutomation -INFO - Warning message is displayed on policy field
+2021-12-02 10:19:48,887 - OpenCartAutomation -INFO - Closing the browser
+2021-12-02 10:27:21,025 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-02 10:27:29,702 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-02 10:27:30,049 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-12-02 10:27:34,441 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-12-02 10:27:37,502 - OpenCartAutomation -INFO - Email text box is present on the login page
+2021-12-02 10:27:37,555 - OpenCartAutomation -INFO - Entering email address
+2021-12-02 10:27:40,582 - OpenCartAutomation -INFO - Password text box is present on the login page
+2021-12-02 10:27:40,606 - OpenCartAutomation -INFO - Entering password
+2021-12-02 10:27:43,655 - OpenCartAutomation -INFO - Login button is present on the login page, Test case passed
+2021-12-02 10:27:46,616 - OpenCartAutomation -INFO - Clicking on Login button
+2021-12-02 10:27:49,646 - OpenCartAutomation -INFO - Actual Title-->true Expected Title-->My Account, Login test case passed....
+2021-12-02 10:27:50,495 - OpenCartAutomation -INFO - Closing the browser
+2021-12-02 10:27:50,510 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-02 10:27:57,240 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-02 10:27:57,557 - OpenCartAutomation -INFO - Clicking on My Account
+2021-12-02 10:27:59,046 - OpenCartAutomation -INFO - Clicking on Register
+2021-12-02 10:28:03,089 - OpenCartAutomation -INFO - Getting Account breadcrumb text-->Account
+2021-12-02 10:28:03,102 - OpenCartAutomation -INFO - Getting Register breadcrumb text-->Register
+2021-12-02 10:28:03,102 - OpenCartAutomation -INFO - Account breadcrumb is present on the web page
+2021-12-02 10:28:03,129 - OpenCartAutomation -INFO - Entering firstname
+2021-12-02 10:28:03,152 - OpenCartAutomation -INFO - Entering lastname
+2021-12-02 10:28:03,175 - OpenCartAutomation -INFO - Entering telephone number
+2021-12-02 10:28:03,209 - OpenCartAutomation -INFO - Entering email-->Test007@gmail.com
+2021-12-02 10:28:03,237 - OpenCartAutomation -INFO - Entering password
+2021-12-02 10:28:03,258 - OpenCartAutomation -INFO - Entering confirm password
+2021-12-02 10:28:03,504 - OpenCartAutomation -INFO - Clicking on privacy policy
+2021-12-02 10:28:05,993 - OpenCartAutomation -INFO - Clicking on continue button
+2021-12-02 10:28:14,007 - OpenCartAutomation -INFO - Registration successed...Test case passed
+2021-12-02 10:28:15,122 - OpenCartAutomation -INFO - Closing the browser
+2021-12-02 10:28:15,134 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-02 10:28:21,886 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-02 10:28:22,187 - OpenCartAutomation -INFO - Clicking on My Account
+2021-12-02 10:28:23,574 - OpenCartAutomation -INFO - Clicking on Register
+2021-12-02 10:28:32,208 - OpenCartAutomation -INFO - Clicking on continue button
+2021-12-02 10:28:32,208 - OpenCartAutomation -INFO - *********************FirstName warning message validation******************************
+2021-12-02 10:28:32,225 - OpenCartAutomation -INFO - First name warning message-->First Name must be between 1 and 32 characters!
+2021-12-02 10:28:32,226 - OpenCartAutomation -INFO - Warning message is displayed on FirstName field
+2021-12-02 10:28:32,226 - OpenCartAutomation -INFO - *********************LastName warning message validation******************************
+2021-12-02 10:28:32,239 - OpenCartAutomation -INFO - Last name warning message-->Last Name must be between 1 and 32 characters!
+2021-12-02 10:28:32,239 - OpenCartAutomation -INFO - Warning message is displayed on LastName field
+2021-12-02 10:28:32,239 - OpenCartAutomation -INFO - *********************Email warning message validation******************************
+2021-12-02 10:28:32,255 - OpenCartAutomation -INFO - Email warning message-->E-Mail Address does not appear to be valid!
+2021-12-02 10:28:32,255 - OpenCartAutomation -INFO - Warning message is displayed on Email field
+2021-12-02 10:28:32,255 - OpenCartAutomation -INFO - *********************Telephone warning message validation******************************
+2021-12-02 10:28:32,265 - OpenCartAutomation -INFO - Telephone warning message-->Telephone must be between 3 and 32 characters!
+2021-12-02 10:28:32,265 - OpenCartAutomation -INFO - Warning message is displayed on Telephone field
+2021-12-02 10:28:32,265 - OpenCartAutomation -INFO - *********************Password warning message validation******************************
+2021-12-02 10:28:32,276 - OpenCartAutomation -INFO - Password warning message-->Password must be between 4 and 20 characters!
+2021-12-02 10:28:32,276 - OpenCartAutomation -INFO - Warning message is displayed on Password field
+2021-12-02 10:28:32,277 - OpenCartAutomation -INFO - *********************Privacy Policy warning message validation******************************
+2021-12-02 10:28:32,287 - OpenCartAutomation -INFO - Privacy policy warning message-->Warning: You must agree to the Privacy Policy!
+2021-12-02 10:28:35,295 - OpenCartAutomation -INFO - Warning message is displayed on policy field
+2021-12-02 10:28:36,242 - OpenCartAutomation -INFO - Closing the browser
+2021-12-07 18:43:16,058 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-07 18:43:20,191 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-07 18:43:35,161 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-07 18:43:35,728 - OpenCartAutomation -INFO - Clicking on My Account
+2021-12-07 18:43:37,435 - OpenCartAutomation -INFO - Clicking on Register
+2021-12-07 18:43:41,491 - OpenCartAutomation -INFO - Getting Account breadcrumb text-->Account
+2021-12-07 18:43:41,530 - OpenCartAutomation -INFO - Getting Register breadcrumb text-->Register
+2021-12-07 18:43:41,535 - OpenCartAutomation -INFO - Account breadcrumb is present on the web page
+2021-12-07 18:43:41,667 - OpenCartAutomation -INFO - Entering firstname
+2021-12-07 18:43:41,724 - OpenCartAutomation -INFO - Entering lastname
+2021-12-07 18:43:41,786 - OpenCartAutomation -INFO - Entering telephone number
+2021-12-07 18:43:41,862 - OpenCartAutomation -INFO - Entering email-->Test790@gmail.com
+2021-12-07 18:43:41,937 - OpenCartAutomation -INFO - Entering password
+2021-12-07 18:43:41,988 - OpenCartAutomation -INFO - Entering confirm password
+2021-12-07 18:43:42,262 - OpenCartAutomation -INFO - Clicking on privacy policy
+2021-12-07 18:43:44,075 - OpenCartAutomation -INFO - Clicking on continue button
+2021-12-07 18:43:52,246 - OpenCartAutomation -INFO - Registration Test failed reason-->Warning: E-Mail Address is already registered!
+2021-12-07 18:43:53,835 - OpenCartAutomation -INFO - Closing the browser
+2021-12-07 18:43:53,838 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-07 18:43:59,790 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-07 18:46:27,919 - OpenCartAutomation -INFO - ************** Executing on chrome browser ***************
+2021-12-07 18:46:33,985 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-07 18:46:34,154 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-12-07 18:46:40,310 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-12-07 18:46:43,479 - OpenCartAutomation -INFO - Email text box is present on the login page
+2021-12-07 18:46:43,615 - OpenCartAutomation -INFO - Entering email address
+2021-12-07 18:46:59,379 - OpenCartAutomation -INFO - Closing the browser
+2021-12-07 18:46:59,384 - OpenCartAutomation -INFO - ************** Executing on chrome browser ***************
+2021-12-07 18:47:03,574 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-07 18:47:03,749 - OpenCartAutomation -INFO - Clicking on My Account
+2021-12-07 18:47:05,444 - OpenCartAutomation -INFO - Clicking on Register
+2021-12-07 18:47:09,522 - OpenCartAutomation -INFO - Getting Account breadcrumb text-->Account
+2021-12-07 18:47:09,560 - OpenCartAutomation -INFO - Getting Register breadcrumb text-->Register
+2021-12-07 18:47:09,561 - OpenCartAutomation -INFO - Account breadcrumb is present on the web page
+2021-12-07 18:47:09,694 - OpenCartAutomation -INFO - Entering firstname
+2021-12-07 18:47:09,951 - OpenCartAutomation -INFO - Entering lastname
+2021-12-07 18:47:10,060 - OpenCartAutomation -INFO - Entering telephone number
+2021-12-07 18:47:10,241 - OpenCartAutomation -INFO - Entering email-->Test316@gmail.com
+2021-12-07 18:47:10,359 - OpenCartAutomation -INFO - Entering password
+2021-12-07 18:47:10,643 - OpenCartAutomation -INFO - Entering confirm password
+2021-12-07 18:47:10,747 - OpenCartAutomation -INFO - Clicking on privacy policy
+2021-12-07 18:47:13,472 - OpenCartAutomation -INFO - Clicking on continue button
+2021-12-07 18:47:21,493 - OpenCartAutomation -INFO - Registration successed...Test case passed
+2021-12-07 18:47:22,287 - OpenCartAutomation -INFO - Closing the browser
+2021-12-07 18:47:22,291 - OpenCartAutomation -INFO - ************** Executing on chrome browser ***************
+2021-12-07 18:47:26,407 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-07 18:47:26,511 - OpenCartAutomation -INFO - Clicking on My Account
+2021-12-07 18:47:26,858 - OpenCartAutomation -INFO - Clicking on Register
+2021-12-07 19:05:01,994 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-07 19:05:13,117 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-07 19:05:13,506 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-12-07 19:05:18,181 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-12-07 19:05:21,381 - OpenCartAutomation -INFO - Email text box is present on the login page
+2021-12-07 19:05:21,536 - OpenCartAutomation -INFO - Entering email address
+2021-12-07 19:05:24,636 - OpenCartAutomation -INFO - Password text box is present on the login page
+2021-12-07 19:05:24,707 - OpenCartAutomation -INFO - Entering password
+2021-12-07 19:05:27,793 - OpenCartAutomation -INFO - Login button is present on the login page, Test case passed
+2021-12-07 19:05:30,644 - OpenCartAutomation -INFO - Clicking on Login button
+2021-12-07 19:05:33,717 - OpenCartAutomation -INFO - Actual Title-->true Expected Title-->My Account, Login test case passed....
+2021-12-07 19:05:35,166 - OpenCartAutomation -INFO - Closing the browser
+2021-12-07 19:05:35,188 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-07 19:05:43,394 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-07 19:05:43,762 - OpenCartAutomation -INFO - Clicking on My Account
+2021-12-07 19:05:45,538 - OpenCartAutomation -INFO - Clicking on Register
+2021-12-07 19:05:49,596 - OpenCartAutomation -INFO - Getting Account breadcrumb text-->Account
+2021-12-07 19:05:49,678 - OpenCartAutomation -INFO - Getting Register breadcrumb text-->Register
+2021-12-07 19:05:49,680 - OpenCartAutomation -INFO - Account breadcrumb is present on the web page
+2021-12-07 19:05:49,751 - OpenCartAutomation -INFO - Entering firstname
+2021-12-07 19:05:49,847 - OpenCartAutomation -INFO - Entering lastname
+2021-12-07 19:05:49,929 - OpenCartAutomation -INFO - Entering telephone number
+2021-12-07 19:05:50,036 - OpenCartAutomation -INFO - Entering email-->Test967@gmail.com
+2021-12-07 19:05:50,098 - OpenCartAutomation -INFO - Entering password
+2021-12-07 19:05:50,157 - OpenCartAutomation -INFO - Entering confirm password
+2021-12-07 19:05:50,417 - OpenCartAutomation -INFO - Clicking on privacy policy
+2021-12-07 19:05:53,319 - OpenCartAutomation -INFO - Clicking on continue button
+2021-12-07 19:06:01,336 - OpenCartAutomation -INFO - Registration successed...Test case passed
+2021-12-07 19:06:02,771 - OpenCartAutomation -INFO - Closing the browser
+2021-12-07 19:06:02,780 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-07 19:06:11,426 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-07 19:06:11,784 - OpenCartAutomation -INFO - Clicking on My Account
+2021-12-07 19:06:13,317 - OpenCartAutomation -INFO - Clicking on Register
+2021-12-07 19:06:21,893 - OpenCartAutomation -INFO - Clicking on continue button
+2021-12-07 19:06:21,894 - OpenCartAutomation -INFO - *********************FirstName warning message validation******************************
+2021-12-07 19:06:21,940 - OpenCartAutomation -INFO - First name warning message-->First Name must be between 1 and 32 characters!
+2021-12-07 19:06:21,942 - OpenCartAutomation -INFO - Warning message is displayed on FirstName field
+2021-12-07 19:06:21,942 - OpenCartAutomation -INFO - *********************LastName warning message validation******************************
+2021-12-07 19:06:21,977 - OpenCartAutomation -INFO - Last name warning message-->Last Name must be between 1 and 32 characters!
+2021-12-07 19:06:21,978 - OpenCartAutomation -INFO - Warning message is displayed on LastName field
+2021-12-07 19:06:21,980 - OpenCartAutomation -INFO - *********************Email warning message validation******************************
+2021-12-07 19:06:22,012 - OpenCartAutomation -INFO - Email warning message-->E-Mail Address does not appear to be valid!
+2021-12-07 19:06:22,013 - OpenCartAutomation -INFO - Warning message is displayed on Email field
+2021-12-07 19:06:22,014 - OpenCartAutomation -INFO - *********************Telephone warning message validation******************************
+2021-12-07 19:06:22,070 - OpenCartAutomation -INFO - Telephone warning message-->Telephone must be between 3 and 32 characters!
+2021-12-07 19:06:22,071 - OpenCartAutomation -INFO - Warning message is displayed on Telephone field
+2021-12-07 19:06:22,071 - OpenCartAutomation -INFO - *********************Password warning message validation******************************
+2021-12-07 19:06:22,088 - OpenCartAutomation -INFO - Password warning message-->Password must be between 4 and 20 characters!
+2021-12-07 19:06:22,089 - OpenCartAutomation -INFO - Warning message is displayed on Password field
+2021-12-07 19:06:22,089 - OpenCartAutomation -INFO - *********************Privacy Policy warning message validation******************************
+2021-12-07 19:06:22,104 - OpenCartAutomation -INFO - Privacy policy warning message-->Warning: You must agree to the Privacy Policy!
+2021-12-07 19:06:25,110 - OpenCartAutomation -INFO - Warning message is displayed on policy field
+2021-12-07 19:06:26,630 - OpenCartAutomation -INFO - Closing the browser
+2021-12-08 13:37:26,275 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-08 13:37:35,053 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-08 13:37:35,425 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-12-08 13:37:40,103 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-12-08 13:37:43,191 - OpenCartAutomation -INFO - Email text box is present on the login page
+2021-12-08 13:37:43,262 - OpenCartAutomation -INFO - Entering email address
+2021-12-08 13:37:46,326 - OpenCartAutomation -INFO - Password text box is present on the login page
+2021-12-08 13:37:46,358 - OpenCartAutomation -INFO - Entering password
+2021-12-08 13:37:49,429 - OpenCartAutomation -INFO - Login button is present on the login page, Test case passed
+2021-12-08 13:37:52,318 - OpenCartAutomation -INFO - Clicking on Login button
+2021-12-08 13:37:55,382 - OpenCartAutomation -INFO - Actual Title-->true Expected Title-->My Account, Login test case passed....
+2021-12-08 13:37:56,246 - OpenCartAutomation -INFO - Closing the browser
+2021-12-08 13:37:56,253 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-08 13:38:03,318 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-08 13:38:05,937 - OpenCartAutomation -INFO - Clicking on My Account
+2021-12-08 13:38:07,322 - OpenCartAutomation -INFO - Clicking on Register
+2021-12-08 13:38:11,365 - OpenCartAutomation -INFO - Getting Account breadcrumb text-->Account
+2021-12-08 13:38:11,381 - OpenCartAutomation -INFO - Getting Register breadcrumb text-->Register
+2021-12-08 13:38:11,381 - OpenCartAutomation -INFO - Account breadcrumb is present on the web page
+2021-12-08 13:38:11,423 - OpenCartAutomation -INFO - Entering firstname
+2021-12-08 13:38:11,461 - OpenCartAutomation -INFO - Entering lastname
+2021-12-08 13:38:11,495 - OpenCartAutomation -INFO - Entering telephone number
+2021-12-08 13:38:11,544 - OpenCartAutomation -INFO - Entering email-->Test445@gmail.com
+2021-12-08 13:38:11,589 - OpenCartAutomation -INFO - Entering password
+2021-12-08 13:38:11,635 - OpenCartAutomation -INFO - Entering confirm password
+2021-12-08 13:38:11,881 - OpenCartAutomation -INFO - Clicking on privacy policy
+2021-12-08 13:38:14,499 - OpenCartAutomation -INFO - Clicking on continue button
+2021-12-08 13:38:22,514 - OpenCartAutomation -INFO - Registration successed...Test case passed
+2021-12-08 13:38:23,298 - OpenCartAutomation -INFO - Closing the browser
+2021-12-08 13:38:23,307 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-08 13:38:29,426 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-08 13:38:32,177 - OpenCartAutomation -INFO - Clicking on My Account
+2021-12-08 13:38:33,999 - OpenCartAutomation -INFO - Clicking on Register
+2021-12-08 13:38:42,922 - OpenCartAutomation -INFO - Clicking on continue button
+2021-12-08 13:38:42,922 - OpenCartAutomation -INFO - *********************FirstName warning message validation******************************
+2021-12-08 13:38:42,949 - OpenCartAutomation -INFO - First name warning message-->First Name must be between 1 and 32 characters!
+2021-12-08 13:38:42,950 - OpenCartAutomation -INFO - Warning message is displayed on FirstName field
+2021-12-08 13:38:42,950 - OpenCartAutomation -INFO - *********************LastName warning message validation******************************
+2021-12-08 13:38:42,962 - OpenCartAutomation -INFO - Last name warning message-->Last Name must be between 1 and 32 characters!
+2021-12-08 13:38:42,963 - OpenCartAutomation -INFO - Warning message is displayed on LastName field
+2021-12-08 13:38:42,963 - OpenCartAutomation -INFO - *********************Email warning message validation******************************
+2021-12-08 13:38:42,976 - OpenCartAutomation -INFO - Email warning message-->E-Mail Address does not appear to be valid!
+2021-12-08 13:38:42,976 - OpenCartAutomation -INFO - Warning message is displayed on Email field
+2021-12-08 13:38:42,977 - OpenCartAutomation -INFO - *********************Telephone warning message validation******************************
+2021-12-08 13:38:42,992 - OpenCartAutomation -INFO - Telephone warning message-->Telephone must be between 3 and 32 characters!
+2021-12-08 13:38:42,992 - OpenCartAutomation -INFO - Warning message is displayed on Telephone field
+2021-12-08 13:38:42,992 - OpenCartAutomation -INFO - *********************Password warning message validation******************************
+2021-12-08 13:38:43,008 - OpenCartAutomation -INFO - Password warning message-->Password must be between 4 and 20 characters!
+2021-12-08 13:38:43,008 - OpenCartAutomation -INFO - Warning message is displayed on Password field
+2021-12-08 13:38:43,009 - OpenCartAutomation -INFO - *********************Privacy Policy warning message validation******************************
+2021-12-08 13:38:43,023 - OpenCartAutomation -INFO - Privacy policy warning message-->Warning: You must agree to the Privacy Policy!
+2021-12-08 13:38:46,039 - OpenCartAutomation -INFO - Warning message is displayed on policy field
+2021-12-08 13:38:46,827 - OpenCartAutomation -INFO - Closing the browser
+2021-12-18 16:32:51,951 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-18 16:33:04,210 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-18 16:33:04,632 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-12-18 16:33:09,155 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-12-18 16:33:12,355 - OpenCartAutomation -INFO - Email text box is present on the login page
+2021-12-18 16:33:12,492 - OpenCartAutomation -INFO - Entering email address
+2021-12-18 16:33:15,627 - OpenCartAutomation -INFO - Password text box is present on the login page
+2021-12-18 16:33:15,719 - OpenCartAutomation -INFO - Entering password
+2021-12-18 16:33:18,836 - OpenCartAutomation -INFO - Login button is present on the login page, Test case passed
+2021-12-18 16:33:21,594 - OpenCartAutomation -INFO - Clicking on Login button
+2021-12-18 16:33:24,660 - OpenCartAutomation -INFO - Actual Title-->true Expected Title-->My Account, Login test case passed....
+2021-12-18 16:33:26,523 - OpenCartAutomation -INFO - Closing the browser
+2021-12-18 16:33:26,539 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-18 16:33:33,408 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-18 16:33:33,749 - OpenCartAutomation -INFO - Clicking on My Account
+2021-12-18 16:33:35,138 - OpenCartAutomation -INFO - Clicking on Register
+2021-12-18 16:33:39,205 - OpenCartAutomation -INFO - Getting Account breadcrumb text-->Account
+2021-12-18 16:33:39,240 - OpenCartAutomation -INFO - Getting Register breadcrumb text-->Register
+2021-12-18 16:33:39,241 - OpenCartAutomation -INFO - Account breadcrumb is present on the web page
+2021-12-18 16:33:39,346 - OpenCartAutomation -INFO - Entering firstname
+2021-12-18 16:33:39,421 - OpenCartAutomation -INFO - Entering lastname
+2021-12-18 16:33:39,552 - OpenCartAutomation -INFO - Entering telephone number
+2021-12-18 16:33:39,640 - OpenCartAutomation -INFO - Entering email-->Test707@gmail.com
+2021-12-18 16:33:39,692 - OpenCartAutomation -INFO - Entering password
+2021-12-18 16:33:39,759 - OpenCartAutomation -INFO - Entering confirm password
+2021-12-18 16:33:40,015 - OpenCartAutomation -INFO - Clicking on privacy policy
+2021-12-18 16:33:41,524 - OpenCartAutomation -INFO - Clicking on continue button
+2021-12-18 16:33:49,586 - OpenCartAutomation -INFO - Registration Test failed reason-->Warning: E-Mail Address is already registered!
+2021-12-18 16:33:51,563 - OpenCartAutomation -INFO - Closing the browser
+2021-12-18 16:33:51,576 - OpenCartAutomation -INFO - ************** Executing on firefox browser ***************
+2021-12-18 16:33:59,648 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-18 16:34:00,063 - OpenCartAutomation -INFO - Clicking on My Account
+2021-12-18 16:34:01,630 - OpenCartAutomation -INFO - Clicking on Register
+2021-12-18 16:34:10,326 - OpenCartAutomation -INFO - Clicking on continue button
+2021-12-18 16:34:10,328 - OpenCartAutomation -INFO - *********************FirstName warning message validation******************************
+2021-12-18 16:34:10,394 - OpenCartAutomation -INFO - First name warning message-->First Name must be between 1 and 32 characters!
+2021-12-18 16:34:10,396 - OpenCartAutomation -INFO - Warning message is displayed on FirstName field
+2021-12-18 16:34:10,399 - OpenCartAutomation -INFO - *********************LastName warning message validation******************************
+2021-12-18 16:34:10,454 - OpenCartAutomation -INFO - Last name warning message-->Last Name must be between 1 and 32 characters!
+2021-12-18 16:34:10,456 - OpenCartAutomation -INFO - Warning message is displayed on LastName field
+2021-12-18 16:34:10,457 - OpenCartAutomation -INFO - *********************Email warning message validation******************************
+2021-12-18 16:34:10,502 - OpenCartAutomation -INFO - Email warning message-->E-Mail Address does not appear to be valid!
+2021-12-18 16:34:10,504 - OpenCartAutomation -INFO - Warning message is displayed on Email field
+2021-12-18 16:34:10,505 - OpenCartAutomation -INFO - *********************Telephone warning message validation******************************
+2021-12-18 16:34:10,580 - OpenCartAutomation -INFO - Telephone warning message-->Telephone must be between 3 and 32 characters!
+2021-12-18 16:34:10,582 - OpenCartAutomation -INFO - Warning message is displayed on Telephone field
+2021-12-18 16:34:10,584 - OpenCartAutomation -INFO - *********************Password warning message validation******************************
+2021-12-18 16:34:10,623 - OpenCartAutomation -INFO - Password warning message-->Password must be between 4 and 20 characters!
+2021-12-18 16:34:10,624 - OpenCartAutomation -INFO - Warning message is displayed on Password field
+2021-12-18 16:34:10,624 - OpenCartAutomation -INFO - *********************Privacy Policy warning message validation******************************
+2021-12-18 16:34:10,655 - OpenCartAutomation -INFO - Privacy policy warning message-->Warning: You must agree to the Privacy Policy!
+2021-12-18 16:34:13,668 - OpenCartAutomation -INFO - Warning message is displayed on policy field
+2021-12-18 16:34:15,675 - OpenCartAutomation -INFO - Closing the browser
+2021-12-18 16:37:24,148 - OpenCartAutomation -INFO - ************** Executing on chrome browser ***************
+2021-12-18 16:37:31,631 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-18 16:37:31,799 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-12-18 16:37:36,208 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-12-18 16:37:39,310 - OpenCartAutomation -INFO - Email text box is present on the login page
+2021-12-18 16:37:39,471 - OpenCartAutomation -INFO - Entering email address
+2021-12-18 16:37:42,557 - OpenCartAutomation -INFO - Password text box is present on the login page
+2021-12-18 16:37:42,661 - OpenCartAutomation -INFO - Entering password
+2021-12-18 16:37:45,751 - OpenCartAutomation -INFO - Login button is present on the login page, Test case passed
+2021-12-18 16:37:48,363 - OpenCartAutomation -INFO - Clicking on Login button
+2021-12-18 16:37:51,418 - OpenCartAutomation -INFO - Actual Title-->true Expected Title-->My Account, Login test case passed....
+2021-12-18 16:37:52,247 - OpenCartAutomation -INFO - Closing the browser
+2021-12-18 16:39:29,417 - OpenCartAutomation -INFO - ************** Executing on chrome browser ***************
+2021-12-18 16:39:34,702 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-18 16:39:34,928 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-12-18 16:39:38,970 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-12-18 16:39:54,961 - OpenCartAutomation -INFO - Closing the browser
+2021-12-21 17:49:54,857 - OpenCartAutomation -INFO - ************** Executing on chrome browser ***************
+2021-12-21 17:50:03,027 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-21 17:50:03,224 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-12-21 17:50:07,665 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-12-21 17:50:10,828 - OpenCartAutomation -INFO - Email text box is present on the login page
+2021-12-21 17:50:11,143 - OpenCartAutomation -INFO - Entering email address
+2021-12-21 17:50:14,202 - OpenCartAutomation -INFO - Password text box is present on the login page
+2021-12-21 17:50:14,398 - OpenCartAutomation -INFO - Entering password
+2021-12-21 17:50:17,474 - OpenCartAutomation -INFO - Login button is present on the login page, Test case passed
+2021-12-21 17:50:20,172 - OpenCartAutomation -INFO - Clicking on Login button
+2021-12-21 17:50:23,233 - OpenCartAutomation -INFO - Actual Title-->true Expected Title-->My Account, Login test case passed....
+2021-12-21 17:50:24,179 - OpenCartAutomation -INFO - Closing the browser
+2021-12-22 10:31:48,262 - OpenCartAutomation -INFO - ************** Executing on chrome browser ***************
+2021-12-22 10:31:58,984 - OpenCartAutomation -INFO - Entered the application URL :https://demo.opencart.com/index.php?route=common/home
+2021-12-22 10:31:59,159 - OpenCartAutomation -INFO - Clicking on My Account dropdown
+2021-12-22 10:32:03,605 - OpenCartAutomation -INFO - Clicking on Login dropdown
+2021-12-22 10:32:06,782 - OpenCartAutomation -INFO - Email text box is present on the login page
+2021-12-22 10:32:06,970 - OpenCartAutomation -INFO - Entering email address
+2021-12-22 10:32:10,057 - OpenCartAutomation -INFO - Password text box is present on the login page
+2021-12-22 10:32:10,202 - OpenCartAutomation -INFO - Entering password
+2021-12-22 10:32:13,282 - OpenCartAutomation -INFO - Login button is present on the login page, Test case passed
+2021-12-22 10:32:15,856 - OpenCartAutomation -INFO - Clicking on Login button
+2021-12-22 10:32:18,913 - OpenCartAutomation -INFO - Actual Title-->true Expected Title-->My Account, Login test case passed....
+2021-12-22 10:32:20,141 - OpenCartAutomation -INFO - Closing the browser
